@@ -1,4 +1,4 @@
-<h1 align="center">VINCIUS TELLES <br> FullStack Developer </h1>
+<h1 align="center">VINICIUS TELLES <br> FullStack Developer </h1>
 <p align="center">:computer: Javascript | Typescript | React.js | React Native | Node.js | Html | Css | Git | SQL | NoSQL </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-telles-984301a6/">
