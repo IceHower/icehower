@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vinicius-telles-984301a6/">
     <img src="https://img.shields.io/static/v1?label=&message=Linkedin&?style=plastic&logo=LinkeDin&labelColor=blue&color=blue" alt="Linkedin" />
   </a>
-  <a href="GitHub">
+  <a href="https://github.com/IceHower?tab=repositories">
     <img src="https://img.shields.io/static/v1?label=&message=GitHub&?style=plastic&logo=Github&color=404040" alt="GitHub" />
   </a>
 </p>
